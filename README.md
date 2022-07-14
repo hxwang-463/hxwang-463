@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hxwang-463
 - 👀 I’m interested in computer science
 - 🌱 I’m currently a master student at NYU Courant
-- 💞️ I’m currently collaborate on https://github.com/Products-Development-Team/products/pull/49
+- 💞️ I’m currently collaborate on https://github.com/Products-Development-Team/products
 - 📫 whx5562@gmail.com
 
 <!---
